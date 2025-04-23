@@ -8,7 +8,7 @@ public class Update_PreparedStatement {
 
 	public static void main(String[] args) {
 		//JDBC 이용한 DB 연동 프로그래밍 작성 절차
-		//0. JDBC 라이브러리 개발환경 설정(빌드경로에 등록)
+		
 		//1. JDBC 드라이버 로딩
 		//2. DB연결 - Connection 객체 생성 <- DriverManager
 		//3. Statement 문 실행(SQL 문 실행)
